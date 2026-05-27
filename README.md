@@ -47,8 +47,4 @@ This repository is created for:
 
 ---
 
-# ⭐ Thank You
-=======
-# CodeVault
-Collection of beginner C and Python programs
->>>>>>> a31ded4ee9f9cb2d940f23b2233c8afc1b1727dc
+# ⭐ Thank You 
