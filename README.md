@@ -2,52 +2,41 @@
 
 A structured collection of C and Python programs created to strengthen programming fundamentals, problem-solving skills, and practical implementation of core computer science concepts.
 
-Created by **Akanksha Singh (akxverse)** ✨
+**By [Akanksha Singh](https://github.com/akxverse) · @akxverse**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 📚 Topics Covered
+## 📂 C Programs
 
-### 💻 C Programming
-
-* Basics
-* Arrays
-* Strings
-* Recursion
-* Searching Algorithms
-* Sorting Algorithms
-* Pattern Programs
-* Mini Projects
-
-### 🐍 Python Programming
-
-* Fundamentals
-* Utilities
-* Mini Projects
+| Folder | Programs |
+|--------|----------|
+| `Arrays` | array_sum_avg, find_duplicates, matrix_addition, reverse_array, rotate_array, second_largest |
+| `Basic` | armstrong_number, even_odd, largest_number, multiplication_table, palindrome, prime_number, reverse_number, swap_number |
+| `Mini_Projects` | calculator, student_grade_system |
+| `Patterns` | diamond_pattern, number_pyramid, star_triangle |
+| `Recursion` | factorial, fibonacci, gcd_recursion, power_recursion, recursive_sum |
+| `Searching` | binary_search, linear_search |
+| `Sorting` | bubble_sort, insertion_sort, selection_sort |
+| `Strings` | count_vowels, string_palindrome, string_reverse, word_counter |
 
 ---
 
-## 📂 Repository Structure
+## 🐍 Python Programs
 
-```text
-CodeVault
-│
-├── C
-│   ├── Basics
-│   ├── Arrays
-│   ├── Strings
-│   ├── Recursion
-│   ├── Searching
-│   ├── Sorting
-│   ├── Patterns
-│   └── Mini_Projects
-│
-├── Python
-│
-└── README.md
+| Folder | Programs |
+|--------|----------|
+| `Basics` | variables_datatypes, user_input, operators, type_conversion, factorial |
+| `Control_Flow` | if_else, for_loop, while_loop, break_continue |
+| `Functions` | basic_functions, return_multiple, recursion |
+| `Strings` | string_basics, string_formatting, string_methods |
+| `Lists_Dicts` | lists, dictionaries, tuples_sets |
+| `File_Handling` | write_read_file, student_file |
+| `Mini_Projects` | calculator, encoder_decoder, to_do_list, student_management_system |
+
 ```
-
----
 
 ## 🎯 Purpose
 
@@ -66,13 +55,6 @@ This repository is built to:
 Learning happens by building.
 
 Every program in this repository represents a step toward stronger fundamentals, better problem-solving abilities, and a deeper understanding of technology.
-
----
-
-## 🛠 Languages Used
-
-* C
-* Python
 
 ---
 
