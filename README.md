@@ -36,7 +36,7 @@ A structured collection of C and Python programs created to strengthen programmi
 | `File_Handling` | write_read_file, student_file |
 | `Mini_Projects` | calculator, encoder_decoder, to_do_list, student_management_system |
 
-```
+---
 
 ## 🎯 Purpose
 
